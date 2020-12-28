@@ -1,7 +1,5 @@
 ### Hi there! I'm Jinay. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#I am a self-taught data scientist with Master's degree in engineering and passion for Machine Learning.
-#This is the place where I break data and construct models. 
-#Data is Love.
+I am a self-taught data scientist with Master's degree in engineering and passion for Machine Learning. This is the place where I break data and construct models. Data is Love.
 
 - 🔭 I’m currently working on AWS machine learning certification.
 - 🌱 I’m currently learning Mask RCNN.
