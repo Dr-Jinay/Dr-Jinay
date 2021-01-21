@@ -9,8 +9,11 @@ I am a self-taught data scientist with Master's degree in engineering and passio
 <img src=https://www.incimages.com/uploaded_files/image/1920x1080/getty_660952912_363647.jpg>
 
 # 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/jinay-bhavsar/" target="_blank"><img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: jinaybhavsar.com
+[linkedin]: https://www.linkedin.com/in/jinay-bhavsar/
 <!--
 **Dr-Jinay/Dr-Jinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
