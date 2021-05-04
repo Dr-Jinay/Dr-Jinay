@@ -2,7 +2,7 @@
 I am a self-taught data scientist with Master's degree in engineering and passion for Machine Learning. This is the place where I break data and construct models. Data is Love.
 
 - 🔭 I’m currently working on AWS machine learning certification.
-- 🌱 I’m currently learning Mask RCNN.
+- 🌱 Developing my data cleaning skills.
 - 👯 I’m looking to collaborate on Kaggle Data Science competitions.
 - 💬 Ask me about anything related to Data science, Neural Nets, Flask, Books and Acoustic Guitars.
 
