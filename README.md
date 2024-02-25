@@ -9,7 +9,6 @@ I am a self-taught data scientist with Master's degree in engineering and passio
 <img src=https://www.incimages.com/uploaded_files/image/1920x1080/getty_660952912_363647.jpg>
 
 # 📫 How to reach me: 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jinay-bhavsar/
