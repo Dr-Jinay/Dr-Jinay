@@ -1,4 +1,4 @@
-  <img align="c" alt="GIF" src="https://github.com/Dr-Jinay/Dr-Jinay/blob/master/code.gif?raw=true" width="1000" height="320" />
+  <img align="c" alt="GIF" src="https://github.com/Dr-Jinay/Dr-Jinay/blob/main/code.gif?raw=true" width="1000" height="320" />
 
 
 
